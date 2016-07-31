@@ -10,6 +10,7 @@
 	"categories": [
 		"Themes"
 	],
+	"license": "SEE LICENSE IN LICENSE.txt",
 	"icon": "icon.png",
 	"galleryBanner": {
 		"color": "#A0A0A0",
