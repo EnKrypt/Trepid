@@ -1,37 +1,37 @@
 {
-    "name": "Theme-Trepid",
-    "displayName": "Trepid",
-    "description": "A set of color themes for Visual Studio Code designed to mix well with its interface",
-    "version": "0.0.1",
-    "publisher": "enkrypt",
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "galleryBanner": {
-        "color": "#A0A0A0",
-        "theme": "dark"
-    }
-    "homepage": "https://github.com/EnKrypt/Trepid/blob/master/README.md",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/EnKrypt/Trepid.git"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Trepid",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Trepid.tmTheme"
-            },
-            {
-                "label": "Trepid Bright",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Trepid_Bright.tmTheme"
-            }
-        ]
-    }
+	"name": "Theme-Trepid",
+	"displayName": "Trepid",
+	"description": "A set of color themes for Visual Studio Code designed to mix well with its interface",
+	"version": "0.0.1",
+	"publisher": "enkrypt",
+	"engines": {
+		"vscode": "^1.0.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#A0A0A0",
+		"theme": "dark"
+	},
+	"homepage": "https://github.com/EnKrypt/Trepid/blob/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/EnKrypt/Trepid.git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Trepid",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Trepid.tmTheme"
+			},
+			{
+				"label": "Trepid Bright",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Trepid_Bright.tmTheme"
+			}
+		]
+	}
 }
