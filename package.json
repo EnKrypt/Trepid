@@ -13,7 +13,7 @@
 	"license": "SEE LICENSE IN LICENSE.txt",
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#A0A0A0",
+		"color": "#252525",
 		"theme": "dark"
 	},
 	"homepage": "https://github.com/EnKrypt/Trepid/blob/master/README.md",
